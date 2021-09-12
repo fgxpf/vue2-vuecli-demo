@@ -72,6 +72,7 @@ export default {
   background: #9bb5a9;
   grid-column: span 2;
   grid-row: span 2;
+  overflow: hidden;
 }
 #chart {
   height: 100%;

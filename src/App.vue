@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <router-view />
+    <el-tooltip ref="overflowTooltip"></el-tooltip>
   </div>
 </template>
 
